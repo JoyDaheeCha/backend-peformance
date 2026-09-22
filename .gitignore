@@ -47,3 +47,6 @@ out/
 .terraform.lock.hcl
 terraform.tfvars
 .env
+
+# claude
+.omc/
