@@ -6,6 +6,8 @@
 
 ## 실행 환경
 
+테스트
+
 - JDK 17
 - Docker Desktop — 테스트가 Testcontainers 로 MySQL·Redis 컨테이너를 직접 띄웁니다. Docker 가 켜져 있어야 `./gradlew build` 가 통과합니다.
 
